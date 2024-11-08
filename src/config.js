@@ -1,16 +1,16 @@
 export const metaData = {
   baseUrl: "https://astrofolio-astro.vercel.app/",
-  title: "Astrofolio",
-  name: "Vikas",
+  title: "Tre Galloway",
+  name: "Tre Galloway",
   ogImage: "/opengraph-image.png",
   description:
-    "A clean, fast, and lightweight portfolio template built with Next.js, Vercel, and Tailwind CSS for optimal performance.",
+    "My little corner of the internet where I share my thoughts, ideas, and products.",
 };
 
 export const socialLinks = {
-  twitter: "https://x.com/vikas5914",
-  github: "https://github.com/vikas5914/Astrofolio",
-  instagram: "https://www.instagram.com/",
-  linkedin: "https://www.linkedin.com/",
-  email: "mailto:example@gmail.com",
+  twitter: "https://x.com/bytregalloway",
+  youtube: "https://www.youtube.com/@tregalloway",
+  github: "https://github.com/TreGalloway",
+  linkedin: "https://www.linkedin.com/in/tregalloway/",
+  email: "mailto:bytregalloway@gmail.com",
 };
